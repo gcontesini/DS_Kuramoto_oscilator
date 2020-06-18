@@ -4,7 +4,7 @@
 
 O oscilador de Kuramoto é um modelo matemático que explica a o fenômeno de sincronização de $N$ oscilador inicialmente dessincronizados. Inicialmente dada oscilador $i=1,2,\dots,N$ possui uma frequência natural de oscilação própria $\omega_i$. Adicionalmente cada oscilador possui um termo de acoplamento $f(\theta_i,\theta_j)$ que depende da fase dos demais osciladores. A evolução dos osciladores é dada pela seguinte equação,
 
-[equation\frac{d}{dt}\theta_i = \omega_i  +\frac{K}{N}\sum^{N}_{j=1}sin(\theta_i-\theta_j)
+$\frac{d}{dt}\theta_i = \omega_i  +\frac{K}{N}\sum^{N}_{j=1}sin(\theta_i-\theta_j)$
 
 ## Parâmetro de Ordem
 
