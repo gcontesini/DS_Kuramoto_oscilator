@@ -20,6 +20,14 @@ $\theta_{i} = \omega_{i} + K r sin(\theta-\theta_{j})$,
 
 obtemos que os zeros do kernel de Dirichlet, localizados em $\theta=\theta_{j}$ e $\theta=\frac{2\pi}{N}(j-1)$ contém as soluções estacionárias do sistema. As condições  serão os pontos de estabilidade do sistema para $\theta=\theta_{j}$, obtemos o sistema sincronizados, e para $\theta=\frac{2\pi}{N}(j-1)$ teremos os sistema dessincronizado sem fase.
 
+## Dynamics
+
+![Kuramoto osc. dynamics](https://github.com/gcontesini/DS_Kuramoto_oscilator/blob/master/kuramoto_oscilator.gif)
+
+
+![order_parameter.png](https://github.com/gcontesini/DS_Kuramoto_oscilator/blob/master/order_parameter.png)
+
+
 ## Referencial Teórico
 
 Para uma analise, e revisão mais detalhada sobre fenômenos de emergência de sincronicidade em sistemas dinâmicos, consulte os seguintes dois artigos científicos;
